@@ -1,0 +1,22 @@
+{
+  "name": "testblip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipepagliuco/testBlip.git"
+  },
+  "author": "Felipe Pagliuco Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipepagliuco/testBlip/issues"
+  },
+  "homepage": "https://github.com/felipepagliuco/testBlip#readme",
+  "devDependencies": {
+    "cypress": "^6.4.0"
+  }
+}
